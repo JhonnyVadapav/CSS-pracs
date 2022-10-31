@@ -1,0 +1,13 @@
+.odd{
+    background-color: pink;
+    font-family: Verdana,DejaVu sans, sans-serif;
+}
+.even#two{
+    color: blue;
+    size: 32px;
+}
+.even#four{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
